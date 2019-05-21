@@ -20,7 +20,7 @@ _Guide on how to construct a DIY Arduino alarm clock that "snoozes" with the hel
 
 ### Circuit Diagram
 
-![Circuit Diagram](Alarm Clock.png)
+![Circuit Diagram](Alarm CLock.png)
 
 ### Simplified Procedure
 
