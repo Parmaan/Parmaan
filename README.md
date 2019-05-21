@@ -23,6 +23,17 @@ _Guide on how to construct a DIY Arduino alarm clock that "snoozes" with the hel
 ### Simplified Procedure
 
 1. Wire and Solder necessary components onto a breadboard and into the Arduino as shown above
+   - LCD
+     - RS --> 12
+     - en --> 11
+     - d4 --> 5
+     - d5 --> 4
+     - d6 --> 3
+     - d7 --> 2
+   - RTC
+     - SDA --> A4
+     - SCL --> A5
+     
 2. Upload Code into the Arduino(Code Below)
 3. Set alarm time
 4. Wake up on time
