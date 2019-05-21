@@ -36,6 +36,7 @@ _Guide on how to construct a DIY Arduino alarm clock that "snoozes" with the hel
      
 2. Upload Code into the Arduino(Code Below)
 3. Set alarm time
+   - Button to Set Alarm is also used to confirm alarm time
 4. Wake up on time
 
 
