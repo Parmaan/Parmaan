@@ -316,6 +316,11 @@ void current(){
 
 #### Code Flow
 
+![Code Flow](https://code2flow.com/G3w5Mo.png)
+
+##### Simplified Flow
+
+![Simple Flow](https://code2flow.com/yeGK3q.png)
 
 
 ### Challenges Faced
