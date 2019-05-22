@@ -326,6 +326,12 @@ void current(){
 
 
 ### Challenges Faced
-1. Coding
-   -
+1. Pin Inputs
+   - We downloaded the code from a website where we also followed the circuit diagram. The main problem we faced was that the pin inputs in the code did not match the inputs in the picture, so we had to try out different combinations to make it work. In the code, some inputs were also labeled random variables which made understanding the code harder.
+
+2. Accelerometer
+   - We also struggled in installing the accelerometer into the alarm clock. We had initially already tested the accelerometer with an LED but it took us a long time to manipulate the code perfectly to adapt it into the alarm clock code. We needed to figure out the correct code to switch it off, find the threshold for movement along the z-axis and also where to put the code into the system.
+
+3. Variable Resistor
+   - Until the 100k ohm variable resistor arrived, we tried using fixed resistors adding up to 100k ohm instead. We had to first figure out which wires went to ground and connect the other two wires to the fixed resistors.
 
