@@ -339,8 +339,6 @@ void current(){
    <summary>Click to Expand</summary>
    
    [Alarm Clock Video](https://youtu.be/Z_foNimecmc)
-   {% include youtube.html id=UCmnZrQvZb3J3cd88ibscyDg %}
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/Z_foNimecmc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    
 </details>
 
