@@ -320,6 +320,7 @@ void current(){
 
 <details>
    <summary>Click to Expand</summary>
+   
 ![Code Flow](https://code2flow.com/G3w5Mo.png)
 
 </details>
@@ -328,6 +329,7 @@ void current(){
 
 <details>
    <summary>Click to Expand</summary>
+   
 ![Simple Flow](https://code2flow.com/yeGK3q.png)
 
 </details>
