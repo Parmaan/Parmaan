@@ -334,6 +334,14 @@ void current(){
 
 </details>
 
+### Video
+<details>
+   <summary>Click to Expand</summary>
+   
+   [Alarm Clock Video](https://youtu.be/Z_foNimecmc)
+   
+</details>
+
 ### Challenges Faced
 1. Pin Inputs
    - We downloaded the code from a website where we also followed the circuit diagram. The main problem we faced was that the pin inputs in the code did not match the inputs in the picture, so we had to try out different combinations to make it work. In the code, some inputs were also labeled random variables which made understanding the code harder.
