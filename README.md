@@ -330,7 +330,7 @@ void current(){
 <details>
    <summary>Click to Expand</summary>
    
-[Simply Flow](
+[Simply Flow](https://code2flow.com/yeGK3q.png)
 
 </details>
 
