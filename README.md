@@ -318,12 +318,19 @@ void current(){
 
 #### Code Flow
 
+<details>
+   <summary>Click to Expand</summary>
 ![Code Flow](https://code2flow.com/G3w5Mo.png)
+
+</details>
 
 ##### Simplified Flow
 
+<details>
+   <summary>Click to Expand</summary>
 ![Simple Flow](https://code2flow.com/yeGK3q.png)
 
+</details>
 
 ### Challenges Faced
 1. Pin Inputs
