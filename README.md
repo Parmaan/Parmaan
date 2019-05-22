@@ -43,7 +43,8 @@ _Guide on how to construct a DIY Arduino alarm clock that "snoozes" with the hel
 
 
 ### Arduino Code
-
+<details>
+   <summary>Click to Expand</summary>
 ```
 //include libraries
 #include <Wire.h>
@@ -312,7 +313,7 @@ void current(){
   lcd.print(Sec);
 }
 ```
-
+</details>
 #### Code Flow
 
 ![Code Flow](https://code2flow.com/G3w5Mo.png)
