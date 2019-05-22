@@ -44,7 +44,7 @@ _Guide on how to construct a DIY Arduino alarm clock that "snoozes" with the hel
 
 ### Arduino Code
 <details>
-   <summary>**Click to Expand**</summary>
+   <summary>Click to Expand</summary>
    
 ```
 //include libraries
