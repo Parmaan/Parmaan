@@ -112,8 +112,7 @@ void time(){
   // this block enables the user to set the time 
   // based on the RTC time
   // buttons 'up' and 'yes' trigger this block
-
-  // EEProm stores set alarm time --- and not the arduino??? CHECK!
+  // EEProm stores set alarm time
 
   int tmp=1, mins=0, hors=0, secs=0;
  
