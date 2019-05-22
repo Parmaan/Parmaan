@@ -3,7 +3,7 @@
 
 
 ##### Project Description
-_Guide on how to construct a DIY Arduino alarm clock that "snoozes" with the help of an accelerometer.**ADD MORE**_
+_Guide on how to construct a DIY Arduino alarm clock that "snoozes" with the help of an accelerometer. To set alarm: Turn on alarm clock. Press set alarm button to display time than can be changed. Press "set alarm" button to turn on alarm. Press "start/stop" button to set hour time, and then press "hour to min" button and use "start/stop" button to set minutes. Finally press "hour to min" button again which will display current time and date. When alarm sounds move the accelerometer at fixed threshold to switch off alarm._
 
 
 
