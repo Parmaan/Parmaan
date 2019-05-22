@@ -338,7 +338,7 @@ void current(){
 <details>
    <summary>Click to Expand</summary>
    
-   [Alarm Clock Video](https://youtu.be/Z_foNimecmc)
+   ![Alarm Clock Video](https://youtu.be/Z_foNimecmc)
    
 </details>
 
