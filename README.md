@@ -330,7 +330,7 @@ void current(){
 <details>
    <summary>Click to Expand</summary>
    
-[Alarm Clock Video](https://youtu.be/Z_foNimecmc)
+[Simply Flow](
 
 </details>
 
@@ -338,7 +338,7 @@ void current(){
 <details>
    <summary>Click to Expand</summary>
    
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/Z_foNimecmc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   [Alarm Clock Video](https://youtu.be/Z_foNimecmc)
    
 </details>
 
