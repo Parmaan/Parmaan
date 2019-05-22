@@ -353,4 +353,4 @@ void current(){
    - Until the 100k ohm variable resistor arrived, we tried using fixed resistors adding up to 100k ohm instead. We had to first figure out which wires went to ground and connect the other two wires to the fixed resistors.
 
 #### Additional Information
-Circuit inspired by [this](https://www.instructables.com/id/Arduino-Alarm-Clock-3/) project
+Project inspired by [this](https://www.instructables.com/id/Arduino-Alarm-Clock-3/) project
